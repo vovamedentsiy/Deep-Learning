@@ -9,7 +9,7 @@ Assignments for the Spring 2019 Deep Learning course at University of Amsterdam
 
 <img align="left" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_np.jpg" width="150" height ="150" />
 <img align="center" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_mlp.jpg" width="150" height ="150" />
-<img align="center" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_cnn.jpg" width="150" height ="150" />
+<img align="center right" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_cnn.jpg" width="150" height ="150" />
 
 Find report [here ](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/DL_assignment1.pdf)
 
