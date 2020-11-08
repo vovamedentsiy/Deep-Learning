@@ -8,7 +8,7 @@ Assignments for the Spring 2019 Deep Learning course at University of Amsterdam
 4. Pytorch implementation of the MLP and simple CNN, trained on the Cifar10 dataset
 
 
-Report: [a link](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/DL_assignment1.pdf)
-Code: 
+Find report [here ](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/DL_assignment1.pdf)
+Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/medentsiy_assignment1/code)
 ## Assignment 2: Recurrent Neural Networks and Graph Neural Networks
 ## Assignment 3: Deep Generative Models
