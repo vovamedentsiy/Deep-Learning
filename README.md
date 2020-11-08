@@ -7,9 +7,9 @@ Assignments for the Spring 2019 Deep Learning course at University of Amsterdam
 3. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/code/custom_batchnorm.py) of the BatchNorm module with custom backward method
 4. Trained MLP and simple CNN on the Cifar10 dataset
 
-<img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_np.jpg" width="50" height ="50" />
-![Pytorch MLP](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_mlp.jpg =30x30)
-![Pytorch CNN](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_cnn.jpg =30x30)
+<img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_np.jpg" width="150" height ="150" />
+<img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_mlp.jpg" width="150" height ="150" />
+<img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/imgs/accuracy_cnn.jpg" width="150" height ="150" />
 
 Find report [here ](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment1/DL_assignment1.pdf)
 
