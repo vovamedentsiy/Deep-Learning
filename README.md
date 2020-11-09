@@ -24,6 +24,7 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
     <br>
     <em>Fig. 2: The minimum dominating set of a graph</em> 
 <p\>
+    
 3. Trained [LSTM](https://github.com/vovamedentsiy/Deep-Learning/tree/main/medentsiy_assignment2/code/part2) as a generative model to predict the next character in the text
 
 
@@ -34,6 +35,12 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 
 ## Assignment 3: Deep Generative Models
 1. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_vae_template.py) of VAE
+<p> 
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/elbo.pdf" width="300" height ="200" />
+    <br>
+    <em>ELBO for VAE with 20-dim latent space</em> 
+<p\>
+
 2. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_gan_template.py) of GAN
 3. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_nf_template.py) of RealNVP
 
