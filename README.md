@@ -42,7 +42,7 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 <p\>
   
 <p> 
-    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled0.png" width="300" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled20.png" width="300" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled40.png" width="300" height ="250" />
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled0.png" width="270" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled20.png" width="270" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled40.png" width="270" height ="250" />
     <br>
     <em>Images sampled from Decoder at the begining, halfway through, and at the end of training </em> 
 <p\>
