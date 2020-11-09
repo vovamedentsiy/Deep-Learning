@@ -81,7 +81,7 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 <p\>
   
 <p> 
-    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp0.png" width="270" height ="235" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp19.png" width="270" height ="235" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp39.png" width="270" height ="235" />
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp0.png" width="270" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp19.png" width="270" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp39.png" width="270" height ="250" />
     <br>
     <em>Images sampled from RealNVP after the 1-st epoch, at the middle point of training, and at the end of training </em> 
 <p\>
