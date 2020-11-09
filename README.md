@@ -22,7 +22,6 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 <p> 
     <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment2/imgs/rnn.jpg" width="300" height ="200" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment2/imgs/lstm.jpg" width="300" height ="200" /> 
     <br>
-    <em>Fig. 2: The minimum dominating set of a graph</em> 
 <p\>
     
 3. Trained [LSTM](https://github.com/vovamedentsiy/Deep-Learning/tree/main/medentsiy_assignment2/code/part2) as a generative model to predict the next character in the text
