@@ -42,13 +42,13 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 <p\>
   
 <p> 
-    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled0.png" width="350" height ="300" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled20.png" width="350" height ="300" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled40.png" width="350" height ="300" />
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled0.png" width="320" height ="270" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled20.png" width="320" height ="270" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled40.png" width="320" height ="270" />
     <br>
     <em>Images sampled from VAE at the begining, halfway through, and at the end of training </em> 
 <p\>
 
 <p> 
-    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/manifold.png" width="450" height ="400" />
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/manifold.png" width="480" height ="400" />
     <br>
     <em>Output of VAE’s decoder in 2-dimensional latent space</em> 
 <p\>
