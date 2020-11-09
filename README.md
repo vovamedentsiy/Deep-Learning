@@ -42,9 +42,9 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 <p\>
   
 <p> 
-    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled0.png" width="320" height ="270" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled20.png" width="320" height ="270" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled40.png" width="320" height ="270" />
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled0.png" width="300" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled20.png" width="300" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled40.png" width="300" height ="250" />
     <br>
-    <em>Images sampled from VAE at the begining, halfway through, and at the end of training </em> 
+    <em>Images sampled from Decoder at the begining, halfway through, and at the end of training </em> 
 <p\>
 
 <p> 
@@ -54,6 +54,25 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 <p\>
     
 2. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_gan_template.py) of GAN
+<p> 
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/gan/loss_gan.png" width="400" height ="250" />
+    <br>
+    <em>Loss of Generator and Discriminator networks</em> 
+<p\>
+  
+<p> 
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/gan/0.png" width="300" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/gan/gan_500.png" width="300" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/gan/gan_100000.png" width="300" height ="250" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/gan/186500.png" width="300" height ="250" />
+    <br>
+    <em>Images sampled from Generator at the begining, halfway through, and at the end of training</em> 
+<p\>
+
+<p> 
+    <img align="center" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/gan/generated_transform.png" />
+    <br>
+    <em>Interpolating between two images in the latent space</em> 
+<p\>
+    
+    
 3. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_nf_template.py) of RealNVP
 
 
