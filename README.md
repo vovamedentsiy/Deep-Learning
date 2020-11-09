@@ -48,7 +48,7 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 <p\>
 
 <p> 
-    <img align="right" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/manifold.png" width="480" height ="400" />
+    <img align="centre" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/manifold.png" width="480" height ="400" />
     <br>
     <em>Output of VAE’s decoder in 2-dimensional latent space</em> 
 <p\>
