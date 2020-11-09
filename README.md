@@ -36,7 +36,7 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 ## Assignment 3: Deep Generative Models
 1. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_vae_template.py) of VAE
 <p> 
-    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/elbo.pdf" width="300" height ="200" />
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/elbo.png" width="300" height ="200" />
     <br>
     <em>ELBO for VAE with 20-dim latent space</em> 
 <p\>
