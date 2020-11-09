@@ -67,7 +67,7 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 <p\>
 
 <p> 
-    <img align="center" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/gan/generated_transform.png" width="300" height ="70" />
+    <img align="center" src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/gan/generated_transform.png" width="400" height ="70" />
     <br>
     <em>Interpolating between two images in the latent space</em> 
 <p\>
