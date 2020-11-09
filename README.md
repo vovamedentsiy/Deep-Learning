@@ -74,9 +74,19 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
     
     
 3. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_nf_template.py) of RealNVP
+<p> 
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/avg_bpd.png" width="400" height ="250" />
+    <br>
+    <em>Training and validation performance in bits per dimension</em> 
+<p\>
+  
+<p> 
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp0.png" width="270" height ="235" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp19.png" width="270" height ="235" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/nf/sampled_img_nvp39.png" width="270" height ="235" />
+    <br>
+    <em>Images sampled from RealNVP after the 1-st epoch, at the middle point of training, and at the end of training </em> 
+<p\>
 
-
-Find report with derivations [here ](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/DL_assignment3.pdf)
+Find report [here ](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/DL_assignment3.pdf)
 
 
 Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/medentsiy_assignment3/code)
