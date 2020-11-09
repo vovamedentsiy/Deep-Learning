@@ -19,7 +19,7 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 
 1. Derived analytical gradients for the RNN
 2. Pytorch implementation of the [vanilla RNN](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment2/code/part1/vanilla_rnn.py) and [LSTM](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment2/code/part1/lstm.py) trained to memorize palindromes with various length
-<img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment2/imgs/rnn.jpg" width="300" height ="200" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment2/imgs/lstm.jpg" width="300" height ="200" description="My cat, Robert Downey Jr."/>
+<img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment2/imgs/rnn.jpg" width="300" height ="200" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment2/imgs/lstm.jpg" width="300" height ="200" caption="My cat, Robert Downey Jr."/>
 3. Trained [LSTM](https://github.com/vovamedentsiy/Deep-Learning/tree/main/medentsiy_assignment2/code/part2) as a generative model to predict the next character in the text
 
 
