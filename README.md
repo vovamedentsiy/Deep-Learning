@@ -36,11 +36,23 @@ Find code here [here ](https://github.com/vovamedentsiy/Deep-Learning/tree/main/
 ## Assignment 3: Deep Generative Models
 1. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_vae_template.py) of VAE
 <p> 
-    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/elbo.png" width="300" height ="200" />
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/elbo.png" width="300" height ="400" />
     <br>
     <em>ELBO for VAE with 20-dim latent space</em> 
 <p\>
+  
+<p> 
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled0.png" width="300" height ="300" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled20.png" width="300" height ="300" /> <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/sampled40.png" width="300" height ="300" />
+    <br>
+    <em>Images sampled from VAE at the begining, halfway through, and at the end of training </em> 
+<p\>
 
+<p> 
+    <img src="https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/imgs/vae/manifold.png" width="350" height ="350" />
+    <br>
+    <em>Output of VAE’s decoder in 2-dimensional latent space</em> 
+<p\>
+    
 2. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_gan_template.py) of GAN
 3. Pytorch [implementation](https://github.com/vovamedentsiy/Deep-Learning/blob/main/medentsiy_assignment3/code/a3_nf_template.py) of RealNVP
 
